@@ -1,0 +1,37 @@
+body{
+        background-color:white;
+      }   
+    .arc text {
+      font: 10px sans-serif;
+      text-anchor: middle;
+    }
+
+    .arc path {
+      stroke: #fff;
+    }
+
+    .legend {                                                  
+            font-size: 12px;                                          
+          }  
+    header
+    {
+      overflow:hidden;
+      width:100%;
+      position:fixed;
+      top:0;
+      background:#b8b894;
+      height:75px;
+    } 
+    nav li
+    {
+      display:inline;
+      font-size:15px;
+      float:right;
+      font-family: 'Niconne', cursive;
+    }
+    nav a
+    {
+      text-decoration:none;
+      padding-right:20px;
+
+    }

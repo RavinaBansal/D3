@@ -1,0 +1,39 @@
+body{
+    background-color:white;
+  }  
+.axis path,
+.axis line {
+ fill: none;
+ stroke: #000;
+ shape-rendering: crispEdges;
+}
+
+.bar {
+ fill: steelblue;
+}
+
+.x.axis path {
+ display: none;
+}
+header
+{
+  overflow:hidden;
+  width:100%;
+  position:fixed;
+  top:0;
+  background:#b8b894;
+  height:75px;
+}
+nav li
+{
+  display:inline;
+  font-size:15px;
+  float:right;
+  font-family: 'Niconne', cursive;
+}
+nav a
+{
+  text-decoration:none;
+  padding-right:20px;
+
+}
